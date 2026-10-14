@@ -1,0 +1,6 @@
+{
+  "name": "AI Bếp Nhà",
+  "description": "Trợ lý thực đơn & Quản lý chi tiêu cá nhân",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
